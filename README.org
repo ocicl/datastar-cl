@@ -4,6 +4,6 @@ A Common Lisp SDK for the Datastar hypermedia framework.
 
 |---------+------------------------------------------------------------|
 | source  | git:https://github.com/fsmunoz/datastar-cl.git            |
-| commit  | 5aed018                                                    |
+| commit  | 06d4567                                                    |
 | systems | datastar-cl datastar-cl/brotli datastar-cl/clack datastar-cl/core datastar-cl/hunchentoot datastar-cl/profile datastar-cl/registry datastar-cl/snooze datastar-cl/snooze-doc datastar-cl/woo glitch-demo glitch-demo/clack glitch-demo/hunchentoot glitch-simple-demo horizons-demo rep-detect-demo rep-detect-demo/clack rep-detect-demo/hunchentoot|
 |---------+------------------------------------------------------------|
